@@ -46,7 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## screeshot
+## screenshot
 
 ![Screenshot (101)](https://github.com/12Aruna/HR-management-system/assets/122152267/1f87cb4a-7cb7-4bca-8c1f-9a4f8acc50b7)
 
